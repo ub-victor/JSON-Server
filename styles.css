@@ -35,10 +35,10 @@ form {
 
 input, textarea {
     display: block;
+    margin: 16px 0;
     font-family: 'Roboto';
     width: 100%;
-    padding: 6px 0px;
-    margin: 100%;
+    padding: 6px 10px;
     border: 1px solid #ddd;
     border-radius: 5px;
     /*font-size: 16px;*/
