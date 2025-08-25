@@ -3,12 +3,29 @@
         {
             "id": 1,
             "title": "Welcome to the new blog",
-            "content": "Content for post 1"
+            "body": "Lorem ipsum purus in mollis nunc sed id semper. Suspendisse faucibus interdum posuere lorem ipsum. Dictum non consectetur a erat. Risus nullam eget felis eget nunc lobortis mattis aliquam faucibus. Sed adipiscing diam donec adipiscing tristique risus nec feugiat. Faucibus et molestie ac feugiat sed lectus vestibulum mattis. In nibh mauris cursus mattis molestie a iaculis at erat. Velit aliquet sagittis id consectetur purus ut faucibus. Lorem dolor sed viverra ipsum. Facilisis gravida neque convallis a cras. Adipiscing vitae proin sagittis nisl rhoncus. Odio eu feugiat pretium nibh ipsum. Sit amet nulla facilisi morbi. Viverra mauris in aliquam sem. Vitae justo eget magna fermentum. Ultrices dui sapien eget mi proin sed libero. Convallis a cras semper auctor neque vitae tempus quam. Netus et malesuada fames ac turpis egestas. Morbi enim nunc faucibus a pellentesque sit amet porttitor. Suspendisse potenti nullam ac tortor vitae.\nBlandit volutpat maecenas volutpat blandit. Nulla facilisi etiam dignissim diam quis enim lobortis scelerisque. Aliquet enim tortor at auctor urna nunc id cursus metus. Phasellus faucibus scelerisque eleifend donec pretium vulputate. Enim ut tellus elementum sagittis vitae et leo. Sem nulla pharetra diam sit amet nisl suscipit adipiscing. Elementum integer enim neque volutpat ac tincidunt vitae. Id leo in vitae turpis massa sed elementum. Volutpat sed cras ornare arcu dui vivamus arcu felis. Suspendisse in est ante in. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam. Elit eget gravida cum sociis natoque. Aliquet porttitor lacus luctus accumsan tortor posuere ac ut. Purus faucibus ornare suspendisse sed. Fermentum posuere urna nec tincidunt praesent semper feugiat nibh. Ac turpis egestas integer eget aliquet.\n",
+            "likes": 30
         },
         {
             "id": 2,
-            "title": "Post 2",
-            "content": "Content for post 2"
+            "title": "How to be a winner",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "likes": 15
+        },
+        {
+            "id": 3,
+            "title": "The secrets of success",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "likes": 20
+        }
+    ],
+    "polls": [
+        {
+            "id": 1,
+            "question": "What do you like between vue and react?",
+            "answerA": "Vue",
+            "answerB": "React"
         }
     ]
+
 }

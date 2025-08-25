@@ -7,7 +7,7 @@ body {
     font-family: 'Roboto';
     color: #444;
     max-width: 960px;
-    margin: 100px auto;
+    margin: 30px auto;
     padding:10px;
 }
 
@@ -46,4 +46,35 @@ input, textarea {
 }
 textarea {
     min-height: 200px;
+}
+
+.post {
+    padding: 20px;
+    background: white;
+    border-radius: 10px;
+    margin: 20px 0;
+}
+.post p {
+    margin:0;
+}
+.post a {
+    color: #36cca2;
+}
+
+.details {
+    padding: 20px;
+    background: white;
+    border-radius: 10px;
+    margin: 20px 0;
+}
+
+.details h1{
+    color: #36cca2;
+}
+.details p {
+    margin: 10px;
+}
+
+.details .likes {
+    color: red;
 }
