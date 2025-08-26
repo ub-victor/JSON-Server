@@ -1,28 +1,34 @@
 {
   "posts": [
     {
-      "id": "1",
+      "id": 1,
+      "likes": 30,
       "title": "Welcome to the new blog",
-      "body": "Lorem ipsum purus in mollis nunc sed id semper. Suspendisse faucibus interdum posuere lorem ipsum. Dictum non consectetur a erat. Risus nullam eget felis eget nunc lobortis mattis aliquam faucibus. Sed adipiscing diam donec adipiscing tristique risus nec feugiat. Faucibus et molestie ac feugiat sed lectus vestibulum mattis. In nibh mauris cursus mattis molestie a iaculis at erat. Velit aliquet sagittis id consectetur purus ut faucibus. Lorem dolor sed viverra ipsum. Facilisis gravida neque convallis a cras. Adipiscing vitae proin sagittis nisl rhoncus. Odio eu feugiat pretium nibh ipsum. Sit amet nulla facilisi morbi. Viverra mauris in aliquam sem. Vitae justo eget magna fermentum. Ultrices dui sapien eget mi proin sed libero. Convallis a cras semper auctor neque vitae tempus quam. Netus et malesuada fames ac turpis egestas. Morbi enim nunc faucibus a pellentesque sit amet porttitor. Suspendisse potenti nullam ac tortor vitae.\nBlandit volutpat maecenas volutpat blandit. Nulla facilisi etiam dignissim diam quis enim lobortis scelerisque. Aliquet enim tortor at auctor urna nunc id cursus metus. Phasellus faucibus scelerisque eleifend donec pretium vulputate. Enim ut tellus elementum sagittis vitae et leo. Sem nulla pharetra diam sit amet nisl suscipit adipiscing. Elementum integer enim neque volutpat ac tincidunt vitae. Id leo in vitae turpis massa sed elementum. Volutpat sed cras ornare arcu dui vivamus arcu felis. Suspendisse in est ante in. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam. Elit eget gravida cum sociis natoque. Aliquet porttitor lacus luctus accumsan tortor posuere ac ut. Purus faucibus ornare suspendisse sed. Fermentum posuere urna nec tincidunt praesent semper feugiat nibh. Ac turpis egestas integer eget aliquet.\n",
-      "likes": 30
+      "body": "Welcome to Victo’s Blogs, where curiosity meets clarity and every post is written with you in mind. Here, you’ll find bite-sized insights, practical tips, and thoughtful perspectives on topics that matter—from everyday tech and creative ideas to personal growth and playful inspiration. We’re not just sharing information; we’re building a community of readers who enjoy learning, asking questions, and exploring new possibilities together. Dive in, join the conversation, and let Victo’s Blogs be your friendly guide to discovering something new with a fresh, approachable voice."
     },
     {
-      "id": "2",
-      "title": "How to be a winner",
-      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "likes": 15
+      "id": 2,
+      "likes": 15,
+      "title": "How to become stronger",
+      "body": "To become mentally strong, cultivate self-awareness and a positive mindset, set and work toward goals, and embrace challenges and change as opportunities for growth. Prioritize your physical health through exercise, good nutrition, and sufficient sleep, and manage stress with relaxation techniques like meditation and mindfulness. Build resilience by learning from mistakes, practicing gratitude, and developing problem-solving skills, while also seeking support from positive social connections and knowing when to ask for help. "
     },
     {
-      "id": "3",
-      "title": "The secrets of success",
-      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-      "likes": 20
+      "title": "8 Keys of Succes",
+      "body": "The keys to success include developing good habits, setting clear and powerful goals, taking smart risks, and learning from mistakes and setbacks. Other important factors are maintaining a positive attitude and self-belief, persevering through challenges, continuous learning, having a plan and good time management, and fostering strong relationships with others. By consistently applying these principles, individuals can increase their chances of achieving success in various areas of life.",
+      "likes": 20,
+      "id": 3
+    },
+    {
+      "title": "Impact with your mindset",
+      "body": "Your mindset directly impacts your behavior, productivity, engagement, and overall success by shaping how you interpret situations, handle challenges, and respond to feedback. A growth mindset, which believes abilities can be developed through dedication, leads to seeing failures as learning opportunities and a greater likelihood of success. Conversely, a fixed mindset can lead to a fear of failure, reduced motivation, and avoidance of challenges. You can actively cultivate a positive mindset by practicing self-awareness, setting achievable goals, and focusing on positive self-talk, which can lead to better physical and mental well-being and a more prosperous life. ",
+      "likes": 0,
+      "id": 4
     }
   ],
   "polls": [
     {
-      "id": "1",
-      "question": "What do you like between vue and react?",
+      "id": 1,
+      "question": "Do you prefer Vue or React?",
       "answerA": "Vue",
       "answerB": "React"
     }
