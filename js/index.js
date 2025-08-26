@@ -4,7 +4,7 @@
 const  container = document.querySelector('.blogs');
 const renderPosts = async() =>{
     // Set the API endpoint (JSON Server running locally on port 3000)
-    let uri = 'http://localhost:3000/posts';
+    let uri = 'http://localhost:3000/posts?_sort=likes&_order=desc';
 
     // Fetch (make an HTTP GET request) to the API endpoint
     const res = await fetch(uri);
@@ -27,3 +27,5 @@ const renderPosts = async() =>{
 };
 
 window.addEventListener('DOMContentLoaded', ()=> renderPosts()); 
+
+// lsof -i :3000    kill -9 105101
